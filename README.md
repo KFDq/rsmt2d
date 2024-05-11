@@ -6,7 +6,7 @@ Go implementation of [two dimensional Reed-Solomon Merkle tree data availability
 [![Codecov](https://img.shields.io/codecov/c/github/celestiaorg/rsmt2d)](https://app.codecov.io/gh/celestiaorg/rsmt2d)
 [![GoDoc](https://godoc.org/github.com/celestiaorg/rsmt2d?status.svg)](https://godoc.org/github.com/celestiaorg/rsmt2d)
 
-## Example
+### Example
 
 ```go
 package main
